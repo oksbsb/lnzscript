@@ -3,7 +3,7 @@ lnzscript
 
 LnzScript lets you automate Windows with JavaScript.
 
-![Process.open('notepad.exe'); Time.sleep(500); Keyboard.send('hello!'); Keyboard.send('<Ctrl>s');](http://downpoured.github.com/lnz/shot.png "")
+![Process.open('notepad.exe'); Time.sleep(500); Keyboard.send('hello!'); Keyboard.send('<Ctrl>s');](https://raw.githubusercontent.com/downpoured/lnzscript/master/shot.png "")
 
 You can script macros for frequently performed actions, write quick one-off scripts in the editor,
 and write tests for your software's UI.
